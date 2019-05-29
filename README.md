@@ -3,4 +3,4 @@
 Desenvolvimento de uma aplicação web RESTul usando o framework Python Flask junto à implementação de autenticação externa OAuth.
 
 ## Softwares
-Uso do Vagrant VM, VirtualBox e Flask
+Uso do Vagrant VM, VirtualBox e Flask.
